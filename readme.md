@@ -1,6 +1,6 @@
 <img src="https://tbcarwash.ca/wp-content/uploads/2022/04/man-washing-car-two.png" alt="isolated" width="full" style="margin: 0 auto;"/>
 
-# Car Wash Booking System
+# Fitness Equipment and Accessories
 
 **Version:** 1.0.0
 **variant:** 1
